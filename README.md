@@ -116,9 +116,7 @@ Note
 > Once you clone and if you want to change the name of the application you can follow this article https://medium.com/the-react-native-log/how-to-rename-a-react-native-app-dafd92161c35
 
 Contributors
-=======
-* [manojsinghnegiwd](https://github.com/manojsinghnegiwd) - Manoj Singh Negi
-* [yashkapoor8710](https://github.com/yashkapoor8710) - Yogesh Kapoor
+
 
 Sponsors
 =======
